@@ -67,3 +67,7 @@ console.log("Il risultato della sottrazione tra 4 e 12 è", risultato);
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+let name1 = "john";
+let name2 = "John";
+let result = name1 === name2;
+console.log("L'uguaglianza è ", result)
